@@ -1,7 +1,7 @@
 <?php
 
-  require './class/Instagram.php';
-  require './class/Check.php';
+  require '../class/Instagram.php';
+  require '../class/Check.php';
 
   $delim = "|"; //delim
   $mailpass = file_get_contents('mailpass.txt', FILE_APPEND); //mailpass.txt
