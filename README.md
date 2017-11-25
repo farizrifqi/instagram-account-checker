@@ -24,5 +24,8 @@ error: 0 => Username/email tidak terdaftar.
 ```
 
 
+## Credit
+Terima kasih kepada pemilik `class/Instagram.php`. Mohon maaf saya tidak tahu siapa yang buat, dari awal saya punya (lupa dapat darimana) sudah tidak meninggalkan Copyright.
+
 
 **Gunakan dengan bijak!**
