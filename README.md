@@ -14,7 +14,7 @@ Untuk menjalankan cukup mudah, gunakan `check()` contohnya:
 check('username', 'password');
 ```
 
-###### Result
+## Result
 Tentang result, dapat di lihat dibawah ini:
 ```
 error: 0 => Sukses login.
